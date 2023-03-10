@@ -9,6 +9,8 @@
 }
 
 .carousel .col:hover{
+    position: relative;
+    z-index: 3;
     transform: scale(1.1);
 }
 
