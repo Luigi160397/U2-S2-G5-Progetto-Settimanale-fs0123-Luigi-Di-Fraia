@@ -1,3 +1,7 @@
+.carousel-item .col {
+    padding-left: 3px;
+    padding-right: 3px; 
+  }
 
 .carousel .col{
     transform: scale(1);
