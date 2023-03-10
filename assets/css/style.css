@@ -16,3 +16,7 @@
 .carousel-control-next, .carousel-control-prev{
     width: auto;
 }
+
+.carousel-inner{
+    padding: 2.5rem;
+}
